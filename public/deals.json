@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Website Redesign",
+    "amount": 15000,
+    "stage": "Negotiation",
+    "lastUpdated": "2025-08-12T14:23:00Z"
+  },
+  {
+    "id": 2,
+    "name": "SEO Optimization Package",
+    "amount": 8000,
+    "stage": "Prospecting",
+    "lastUpdated": "2025-08-11T09:15:00Z"
+  },
+  {
+    "id": 3,
+    "name": "CRM Integration",
+    "amount": 22000,
+    "stage": "Closed Won",
+    "lastUpdated": "2025-08-10T17:42:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Email Marketing Campaign",
+    "amount": 5000,
+    "stage": "Negotiation",
+    "lastUpdated": "2025-08-08T11:03:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Mobile App Development",
+    "amount": 30000,
+    "stage": "Prospecting",
+    "lastUpdated": "2025-08-06T15:28:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Data Migration Project",
+    "amount": 12000,
+    "stage": "Closed Lost",
+    "lastUpdated": "2025-08-05T19:10:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Branding & Design Refresh",
+    "amount": 10000,
+    "stage": "Prospecting",
+    "lastUpdated": "2025-08-03T08:45:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Custom Analytics Dashboard",
+    "amount": 18000,
+    "stage": "Negotiation",
+    "lastUpdated": "2025-08-01T13:57:00Z"
+  }
+]
